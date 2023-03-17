@@ -43,6 +43,8 @@ Adding another Vehicle type is as simple as making another subclass and extendin
 from the Vehicle class.
 
 Related principles
-[Links to other principles]
+    - Single Responsability
+    - Liskov Substitution
 Related patterns
-[Pattern names]
+    - Code For The Maintainer
+    - Boy-Scout Rule

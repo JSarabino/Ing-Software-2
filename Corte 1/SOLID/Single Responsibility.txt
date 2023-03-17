@@ -28,6 +28,9 @@ Good example
     }
 
 Related principles
-[Links to other principles]
+    - Open/Closed
 Related patterns
-[Pattern names]
+    - Separation of Concerns
+    - KISS
+    - Do The Simplest Thing That Could Possibly Work
+    - Boy-Scout Rule

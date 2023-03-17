@@ -47,6 +47,9 @@ Now we can connect any type of Engine that implements the Engine interface to th
     }
 
 Related principles
-[Links to other principles]
+    - Interface Segregation
 Related patterns
-[Pattern names]
+    - Separation of Concerns
+    - Composition Over Inheritance?
+    - Code For The Maintainer
+    - Boy-Scout Rule

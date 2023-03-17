@@ -62,6 +62,9 @@ Good example
     }
 
 Related principles
-[Links to other principles]
+    - Dependency Injection
 Related patterns
-[Pattern names]
+    - YAGNI 
+    - KISS
+    - Separation of Concerns
+    - Boy-Scout Rule

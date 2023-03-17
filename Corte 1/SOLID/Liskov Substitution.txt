@@ -59,6 +59,7 @@ Good example
     }
 
 Related principles
-[Links to other principles]
+    - Open/Closed
 Related patterns
-[Pattern names]
+    - Code For The Maintainer
+    - Boy-Scout Rule
